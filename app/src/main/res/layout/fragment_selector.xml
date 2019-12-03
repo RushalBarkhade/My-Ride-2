@@ -71,7 +71,7 @@
                 android:foreground="?android:attr/selectableItemBackground"
                 android:gravity="center"
                 android:paddingStart="15dp"
-                android:text="MAKE RIDE"
+                android:text="OFFER RIDE"
                 android:textAllCaps="false"
                 android:textColor="#ffffff"
                 android:textSize="17sp" />
